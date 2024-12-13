@@ -1,0 +1,67 @@
+.background{
+    color:white;
+    height:100%;
+}
+.first{
+    display:flex;
+    flex-direction:row;
+}
+.second{
+    display:flex;
+    flex-direction:row;
+}
+.third{
+    display:flex;
+    flex-direction:row;
+}
+.img1{
+    height:100px;
+    width:50px;
+    padding:2px;
+}
+.img2{
+    height:60px;
+    width:50px;
+    padding:2px;
+}
+.img3{
+    height:50px;
+    width:50px;
+    padding:2px;
+}
+.img4{
+    height:100px;
+    width:50px;
+    padding:2px;
+}
+.img5{
+    height:150px;
+    width:50px;
+    padding:2px;
+}
+.img6{
+    height:50px;
+    width:50px;
+    padding:2px;
+
+}
+.img7{
+    height:50px;
+    width:50px;
+    padding:2px;
+
+}
+.img8{
+    height:50px;
+    width:50px;
+    padding:2px;
+}
+.img9{
+    height:50px;
+    width:50px;
+    padding:2px;
+}
+.new-container{
+    height:20px;
+    width:50px;
+}
